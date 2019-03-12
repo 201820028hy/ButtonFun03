@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func btnChangeColor(_ sender: Any) {
-        self.view.backgroundColor = UIColor.white
+        self.view.backgroundColor = UIColor.brown
     }
     
 }
